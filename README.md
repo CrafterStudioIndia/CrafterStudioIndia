@@ -1,97 +1,107 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=crafterstudioindia&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="crafterstudioindia profile banner" />
+<p><sub>AN EDITORIAL PROFILE · CRAFTERSTUDIOINDIA</sub></p>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&label=crafterstudioindia&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&label=crafterstudioindia&mode=dark" width="100%" alt="crafterstudioindia cinematic profile scene" />
+</picture>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20TypeScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&label=crafterstudioindia&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&label=crafterstudioindia&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="crafterstudioindia animated ASCII name" />
+</picture>
 
-<br/>
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
 
-<a href="https://github.com/crafterstudioindia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
-
+<p><a href="https://github.com/crafterstudioindia">GitHub</a></p>
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## ⚡ whoami
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building useful things and sharing the work in public.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · JavaScript</sub></p><p><strong>9</strong> repos<br /><strong>50</strong> contributions<br /><strong>0</strong> followers</p></td>
+</tr>
+</table>
 
-```typescript
-const crafterstudioindia: Developer = {
-  name:      "crafterstudioindia",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["JavaScript", "HTML", "TypeScript", "CSS", "Python"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-> Frontend or full-stack engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
+<h2>In the current cut</h2>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20active%20build%20queue%7CTypeScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20active%20build%20queue%7CTypeScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="crafterstudioindia cinematic highlights" />
+</picture>
 
-## ⚔️ Tech Arsenal
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="crafterstudioindia animated technology stack" />
+</picture>
+
+<p align="center"><sub>JavaScript · HTML · TypeScript · Java · CSS · Python · tools chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&repos=crafterstudioindia%2Fprimeauthlib%2Ccrafterstudioindia%2Finfenchant%2Ccrafterstudioindia%2FCrafterStudioIndia%2Ccrafterstudioindia%2Fcampusflow&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&repos=crafterstudioindia%2Fprimeauthlib%2Ccrafterstudioindia%2Finfenchant%2Ccrafterstudioindia%2FCrafterStudioIndia%2Ccrafterstudioindia%2Fcampusflow&v=cinematic-projects-2&mode=dark" width="100%" alt="crafterstudioindia cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/CrafterStudioIndia/primeauthlib">primeauthlib</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/CrafterStudioIndia/infenchant">infenchant</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/CrafterStudioIndia/CrafterStudioIndia">CrafterStudioIndia</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/CrafterStudioIndia/campusflow">campusflow</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<p align="center"><sub>9 public projects · 0 stars · 50 contributions · 0 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="crafterstudioindia contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="crafterstudioindia animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
 <div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
 
-<img src="https://skillicons.dev/icons?i=javascript%2Chtml%2Ctypescript%2Ccss%2Cpython&perline=8&theme=dark" alt="Tech stack" />
+<h2>Keep the story moving</h2>
 
-<br/><br/>
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=crafterstudioindia&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="crafterstudioindia contact links" />
+</picture>
 
-<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" />
+<p><a href="https://github.com/crafterstudioindia">GitHub</a></p>
 
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=crafterstudioindia&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4" alt="crafterstudioindia heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🏆 Beyond the Code
-
-* 🧠 **Profile signal:** 28 contributions in the last year
-* 🚀 **Builder energy:** 7 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<div align="center">
-
-## 🤝 Let's Build Something Meaningful
-
-I build useful software and enjoy turning ambitious ideas into working products.
-
-<a href="https://github.com/crafterstudioindia"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
-
-<br/><br/>
-
-***⭐ From [crafterstudioindia](https://github.com/crafterstudioindia) · built with code, AI & a little chaos 😈***
-
+<p><sub>crafterstudioindia · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>

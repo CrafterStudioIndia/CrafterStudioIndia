@@ -1,128 +1,68 @@
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=crafterstudioindia&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="crafterstudioindia profile banner" />
-
-<br/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20Kotlin%20%C2%B7%20Java%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-<br/>
-
-<a href="https://github.com/crafterstudioindia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚡ whoami
-
-```typescript
-const crafterstudioindia: Developer = {
-  name:      "crafterstudioindia",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["Kotlin", "Java", "JavaScript", "Svelte", "Rust", "HTML"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
-
-> Frontend or full-stack engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cjavascript%2Csvelte%2Crust%2Chtml%2Ctypescript%2Ccss&perline=8&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
-<img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&amp;labelColor=0d1117" alt="Kotlin" /> <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&amp;labelColor=0d1117" alt="Svelte" /> <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&amp;labelColor=0d1117" alt="Rust" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**infenchant**
-
-A featured build from this profile.
-
-`Java` · `0 stars`
-
-<a href="https://github.com/CrafterStudioIndia/infenchant"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**primeauthlib**
-
-A featured build from this profile.
-
-`Java` · `0 stars`
-
-<a href="https://github.com/CrafterStudioIndia/primeauthlib"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=crafterstudioindia&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3Ddf6c786502f1d646c311500a6478f725a68ea949%26v%3D4" alt="crafterstudioindia heatmap visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3D266d9ba9f88bea39046a0383f42dbc7cc80612fa%26v%3D4" alt="crafterstudioindia hero visual" />
 </p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p align="center"><b>crafterstudioindia</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-## 🏆 Beyond the Code
+<p align="center"><a href="https://github.com/crafterstudioindia">GitHub</a></p>
 
-* 🧠 **Profile signal:** 114 contributions in the last year
-* 🚀 **Builder energy:** 12 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=crafterstudioindia&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3D266d9ba9f88bea39046a0383f42dbc7cc80612fa%26v%3D4" alt="crafterstudioindia projects visual" />
+</p>
 
-<div align="center">
+- [SpotifyHUDForMinecraft](https://github.com/CrafterStudioIndia/SpotifyHUDForMinecraft) · ★ 1
+- [infenchant](https://github.com/CrafterStudioIndia/infenchant) · ★ 0
+- [primeauthlib](https://github.com/CrafterStudioIndia/primeauthlib) · ★ 0
+- [Craftrinth](https://github.com/CrafterStudioIndia/Craftrinth) · ★ 0
+- [CrafterBot](https://github.com/CrafterStudioIndia/CrafterBot) · ★ 0
+- [LiquidLauncher](https://github.com/CrafterStudioIndia/LiquidLauncher) · ★ 0
 
-## 🤝 Let's Build Something Meaningful
+</details>
 
-I build useful software and enjoy turning ambitious ideas into working products.
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-<a href="https://github.com/crafterstudioindia"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3D266d9ba9f88bea39046a0383f42dbc7cc80612fa%26v%3D4" alt="crafterstudioindia stack visual" />
+</p>
 
-<br/><br/>
+</details>
 
-***⭐ From [crafterstudioindia](https://github.com/crafterstudioindia) · built with code, AI & a little chaos 😈***
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-</div>
+<b>11</b> public repositories, <b>1</b> stars, <b>123</b> contributions in the last year, a longest streak of <b>13</b> days and <b>0</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3D266d9ba9f88bea39046a0383f42dbc7cc80612fa%26v%3D4" alt="crafterstudioindia stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=crafterstudioindia&theme=neon" alt="crafterstudioindia contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=crafterstudioindia&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244330457%3Fu%3D266d9ba9f88bea39046a0383f42dbc7cc80612fa%26v%3D4" alt="crafterstudioindia social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>crafterstudioindia · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
